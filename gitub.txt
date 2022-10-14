@@ -2,4 +2,8 @@
 git is a light weight
 git is faster
 compare with other server working good in git server
+<<<<<<< HEAD
 newly added
+=======
+git line
+>>>>>>> 18af17217bcde0c32586893f04fdf6752f631522
